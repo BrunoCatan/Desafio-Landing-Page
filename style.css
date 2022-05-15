@@ -15,8 +15,12 @@ nav {
     width: auto;
 }
 
+.planos {
+    margin-top: 2%;
+}
+
 .precos {
-    margin-top: 5%;
+    margin-top: 1%;
 }
 
 .avaliacoes {
